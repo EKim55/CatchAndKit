@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436447412585",
+    "firebase_url": "https://kime2-catch-and-kit.firebaseio.com",
+    "project_id": "kime2-catch-and-kit",
+    "storage_bucket": "kime2-catch-and-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436447412585:android:55f0f473ff19dd42",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.catchandkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436447412585-0svbqr9k4riu5ar7glqnv5ock7ue8i5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITHSBZlisQZDQflrm6paUH6daslDGjdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
